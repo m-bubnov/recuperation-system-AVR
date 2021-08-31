@@ -1,4 +1,4 @@
-The developed recuperative system consists of 2 devices: the control unit (transmitt_part) and the heat recuperator(receive_part). The control unit is responsible for setting and adjusting the recuperator modes. Also, it has a built-in temperature sensor and real-time sensor.
+The developed recuperative system consists of 2 devices: the control unit (transmitt_part) and the heat recuperator (receive_part). The control unit is responsible for setting and adjusting the recuperator modes. Also, it has a built-in temperature sensor and real-time sensor.
 
 *Operating principle of modes 
 
